@@ -1,0 +1,11 @@
+10
+           4612191  Toronto, Ontario, Canada
+           865263   Torino, Italy
+           524066   TorreÃ³n, Coahuila, Mexico
+           208717   ToruÅ„, Poland
+           145438   Torrance, California, United States
+           48546    Torzhok, Russia
+           47556    Torquay, Queensland, Australia
+           47300    Buea, Cameroon
+           8270 Tekman, Turkey
+           158  Tordesilos, Spain 

@@ -1,0 +1,18 @@
+17
+      14608512	Shanghai, China
+      13076300	Buenos Aires, Argentina
+      12691836	Mumbai, India
+      12294193	Mexico City, Distrito Federal, Mexico
+      11624219	Karachi, Pakistan
+      190	Carrollton, Mississippi, United States
+      190	Virginia City, Montana, United States
+      190	Taylor, Nebraska, United States
+      16	Hisel, Germany
+      15	GrÃ¶de, Germany
+      14	Olonkinbyen, Svalbard
+      10	El Porvenir, Panama
+      7	Dierfeld, Germany
+      3	Tanggul, Indonesia
+      3	Al MusaymÄ«r, Yemen
+      2	Grytviken, South Georgia and The South Sandwich Islands
+      2	Al KhÄniq, Yemen
